@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GestionSoinAide/.idea/GestionSoinAide.iml" filepath="$PROJECT_DIR$/../GestionSoinAide/.idea/GestionSoinAide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SchoolOfCitizenship.iml" filepath="$PROJECT_DIR$/.idea/SchoolOfCitizenship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dashgum/.idea/dashgum.iml" filepath="$PROJECT_DIR$/../dashgum/.idea/dashgum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mooc-symfony-iteration-13/.idea/mooc-symfony-iteration-13.iml" filepath="$PROJECT_DIR$/../mooc-symfony-iteration-13/.idea/mooc-symfony-iteration-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../startbootstrap-new-age-gh-pages/.idea/startbootstrap-new-age-gh-pages.iml" filepath="$PROJECT_DIR$/../startbootstrap-new-age-gh-pages/.idea/startbootstrap-new-age-gh-pages.iml" />
+    </modules>
+  </component>
+</project>
